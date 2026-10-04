@@ -1,0 +1,10 @@
+[
+  {"id":1,"title":"Explore Java 21 Features","description":"Test Virtual Threads, Pattern Matching, and Records in TaskFlow.","priority":"URGENT","completed":false,"createdAt":"2026-10-04 16:49"},
+  {"id":2,"title":"Test Web Dashboard","description":"Open http://localhost:8080 to test the embedded web interface.","priority":"HIGH","completed":false,"createdAt":"2026-10-04 16:49"},
+  {"id":4,"title":"Build Executable JAR","description":"Run build.bat to package the application into a standalone JAR.","priority":"LOW","completed":false,"createdAt":"2026-10-04 16:49"},
+  {"id":5,"title":"Ship Java 21 Project","description":"Celebrate working application","priority":"HIGH","completed":true,"createdAt":"2026-10-04 16:49"},
+  {"id":6,"title":"3","description":".\run.bat","priority":"MEDIUM","completed":false,"createdAt":"2026-10-04 18:33"},
+  {"id":7,"title":"yash","description":"java project to developer","priority":"HIGH","completed":false,"createdAt":"2026-10-04 18:36"},
+  {"id":8,"title":"yash","description":"project","priority":"MEDIUM","completed":false,"createdAt":"2026-10-04 18:37"},
+  {"id":9,"title":"apitude","description":"for tcs ion nqt","priority":"MEDIUM","completed":false,"createdAt":"2026-10-04 18:40"}
+]

@@ -1,0 +1,13 @@
+# Build outputs
+bin/
+taskflow.jar
+*.class
+
+# Data storage (keep data local)
+data/test-*.json
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.DS_Store
